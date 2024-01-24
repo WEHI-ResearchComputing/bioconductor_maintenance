@@ -7,3 +7,4 @@ Many researchers at WEHI contribute to Bioconductor. We would like to find out i
 ## Schex 
 
 [Schex](https://github.com/SaskiaFreytag/schex) is an R-package inside Bioconductor, created by Saskia Freytag with the goal of providing hexagonal cell representations of single cell data stored in [SingleCellExperiment](https://bioconductor.org/packages/release/bioc/html/SingleCellExperiment.html). More information is contained in the [Schex repository](https://github.com/SaskiaFreytag/schex)
+
